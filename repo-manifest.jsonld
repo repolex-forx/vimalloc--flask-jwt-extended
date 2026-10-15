@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vimalloc/flask-jwt-extended/commit/11785e00ea3e01b4eb57a8031843e215fe171c2a",
       "git:hexsha": "11785e00ea3e01b4eb57a8031843e215fe171c2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vimalloc/flask-jwt-extended/commit/f97b5f5a216309e60b63cbc802994520662e3bbe",
