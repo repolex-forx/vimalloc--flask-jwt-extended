@@ -1,0 +1,11 @@
+{
+  "org": "vimalloc",
+  "repo": "flask-jwt-extended",
+  "versions": [
+    {
+      "commit": "11785e00ea3e01b4eb57a8031843e215fe171c2a",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:41:01.656947+00:00"
+    }
+  ]
+}
